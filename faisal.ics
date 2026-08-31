@@ -8,7 +8,8 @@ BEGIN:VEVENT
 UID:bartlemas-w1-liv-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Living areas and corridors
-DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Hoover the entrance corridor and the stairs
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
 LOCATION:Home
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
@@ -17,7 +18,8 @@ BEGIN:VEVENT
 UID:bartlemas-w2-kit-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Kitchen
-DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking surfaces\; Sweep and mop the floor\; Empty the bins if necessary
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
 LOCATION:Home
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
@@ -26,7 +28,9 @@ BEGIN:VEVENT
 UID:bartlemas-w3-b2-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\,
+  inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean 
+ the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
@@ -35,7 +39,8 @@ BEGIN:VEVENT
 UID:bartlemas-w4-liv-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Living areas and corridors
-DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Hoover the entrance corridor and the stairs
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
 LOCATION:Home
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
@@ -44,7 +49,8 @@ BEGIN:VEVENT
 UID:bartlemas-w5-bins-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: bins out
-DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags in every bin. Collected Thursday.
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
 LOCATION:Home
 DTSTART:20261007T180000
 DTEND:20261007T183000
@@ -58,7 +64,9 @@ BEGIN:VEVENT
 UID:bartlemas-w6-b2-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\,
+  inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean 
+ the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
@@ -67,7 +75,8 @@ BEGIN:VEVENT
 UID:bartlemas-w7-kit-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Kitchen
-DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking surfaces\; Sweep and mop the floor\; Empty the bins if necessary
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
 LOCATION:Home
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
@@ -76,7 +85,8 @@ BEGIN:VEVENT
 UID:bartlemas-w8-liv-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Living areas and corridors
-DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Hoover the entrance corridor and the stairs
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
 LOCATION:Home
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
@@ -85,7 +95,9 @@ BEGIN:VEVENT
 UID:bartlemas-w9-b2-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\,
+  inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean 
+ the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
@@ -94,7 +106,8 @@ BEGIN:VEVENT
 UID:bartlemas-w10-bins-faisal@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: bins out
-DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags in every bin. Collected Thursday.
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
 LOCATION:Home
 DTSTART:20261111T180000
 DTEND:20261111T183000

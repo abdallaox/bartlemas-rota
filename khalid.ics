@@ -8,7 +8,8 @@ BEGIN:VEVENT
 UID:bartlemas-w1-kit-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Kitchen
-DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking surfaces\; Sweep and mop the floor\; Empty the bins if necessary
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
 LOCATION:Home
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
@@ -17,7 +18,9 @@ BEGIN:VEVENT
 UID:bartlemas-w2-b2-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\,
+  inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean 
+ the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
@@ -26,7 +29,8 @@ BEGIN:VEVENT
 UID:bartlemas-w3-liv-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Living areas and corridors
-DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Hoover the entrance corridor and the stairs
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
 LOCATION:Home
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
@@ -35,7 +39,8 @@ BEGIN:VEVENT
 UID:bartlemas-w4-bins-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: bins out
-DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags in every bin. Collected Thursday.
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
 LOCATION:Home
 DTSTART:20260930T180000
 DTEND:20260930T183000
@@ -49,7 +54,9 @@ BEGIN:VEVENT
 UID:bartlemas-w5-b2-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\,
+  inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean 
+ the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
@@ -58,7 +65,8 @@ BEGIN:VEVENT
 UID:bartlemas-w6-kit-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Kitchen
-DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking surfaces\; Sweep and mop the floor\; Empty the bins if necessary
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
 LOCATION:Home
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
@@ -67,7 +75,8 @@ BEGIN:VEVENT
 UID:bartlemas-w7-liv-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Living areas and corridors
-DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Hoover the entrance corridor and the stairs
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
 LOCATION:Home
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
@@ -76,7 +85,9 @@ BEGIN:VEVENT
 UID:bartlemas-w8-b2-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\,
+  inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean 
+ the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
@@ -85,7 +96,8 @@ BEGIN:VEVENT
 UID:bartlemas-w9-bins-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: bins out
-DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags in every bin. Collected Thursday.
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
 LOCATION:Home
 DTSTART:20261104T180000
 DTEND:20261104T183000
@@ -99,7 +111,8 @@ BEGIN:VEVENT
 UID:bartlemas-w10-kit-khalid@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Kitchen
-DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking surfaces\; Sweep and mop the floor\; Empty the bins if necessary
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
 LOCATION:Home
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
