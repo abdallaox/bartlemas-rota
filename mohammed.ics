@@ -8,7 +8,7 @@ BEGIN:VEVENT
 UID:bartlemas-w1-b1-mohammed@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 1
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
@@ -31,7 +31,7 @@ BEGIN:VEVENT
 UID:bartlemas-w3-b1-mohammed@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 1
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 UID:bartlemas-w5-b1-mohammed@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 1
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 UID:bartlemas-w7-b1-mohammed@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 1
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 UID:bartlemas-w9-b1-mohammed@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 1
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102

@@ -8,7 +8,7 @@ BEGIN:VEVENT
 UID:bartlemas-w1-b2-abdalla@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 UID:bartlemas-w4-b2-abdalla@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 UID:bartlemas-w7-b2-abdalla@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 UID:bartlemas-w10-b2-abdalla@rota
 DTSTAMP:20260101T000000Z
 SUMMARY:Rota: Bathroom 2
-DESCRIPTION:Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
+DESCRIPTION:The one at the end of the upstairs corridor. Clean the toilet\, inside and out\; Clean the sink\; Clean the bathing area\; Mop and clean the floor
 LOCATION:Home
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
