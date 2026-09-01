@@ -1,0 +1,997 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//20 Bartlemas Road//Housekeeping Rota//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Housekeeping rota: Yasser
+BEGIN:VEVENT
+UID:bartlemas-c1-w1-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20260909T180000
+DTEND:20260909T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w2-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w3-kit-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Kitchen
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
+LOCATION:Home
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Kitchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w4-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w5-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w6-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w7-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20261021T180000
+DTEND:20261021T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w8-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w9-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c1-w10-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w1-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20261118T180000
+DTEND:20261118T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w2-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w3-kit-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Kitchen
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
+LOCATION:Home
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Kitchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w4-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w5-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w6-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w7-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20261230T180000
+DTEND:20261230T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w8-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270104
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w9-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c2-w10-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w1-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20270127T180000
+DTEND:20270127T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w2-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w3-kit-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Kitchen
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
+LOCATION:Home
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Kitchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w4-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w5-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270222
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w6-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w7-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20270310T180000
+DTEND:20270310T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w8-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w9-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c3-w10-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270329
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w1-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20270407T180000
+DTEND:20270407T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w2-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w3-kit-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Kitchen
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
+LOCATION:Home
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270419
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Kitchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w4-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270426
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w5-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270503
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w6-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w7-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20270519T180000
+DTEND:20270519T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w8-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270524
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w9-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270531
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c4-w10-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270607
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w1-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20270616T180000
+DTEND:20270616T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w2-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270621
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w3-kit-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Kitchen
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
+LOCATION:Home
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270628
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Kitchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w4-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270705
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w5-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270712
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w6-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270719
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w7-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20270728T180000
+DTEND:20270728T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w8-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270802
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w9-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270809
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c5-w10-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270816
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w1-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20270825T180000
+DTEND:20270825T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w2-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270830
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w3-kit-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Kitchen
+DESCRIPTION:Clean the stove\; Clean the sink\; Clean and tidy the cooking s
+ urfaces\; Sweep and mop the floor\; Empty the bins if necessary
+LOCATION:Home
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270906
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Kitchen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w4-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270913
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w5-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270920
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w6-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270927
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w7-bins-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: bins out
+DESCRIPTION:Take the rubbish and recycling out to the kerb\; Put fresh bags
+  in every bin. Collected Thursday.
+LOCATION:Home
+DTSTART:20271006T180000
+DTEND:20271006T183000
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow evening: bins out
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Bins out this evening
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w8-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271011
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w9-liv-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Living areas and corridors
+DESCRIPTION:Hoover the floor\; Clean the surfaces and tables\; Tidy up\; Ho
+ over the entrance corridor and the stairs
+LOCATION:Home
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271018
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Living areas and corridors
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bartlemas-c6-w10-b1-yasser@rota
+DTSTAMP:20260101T000000Z
+SUMMARY:Rota: Bathroom 1
+DESCRIPTION:The first one at the top of the stairs. Clean the toilet\, insi
+ de and out\; Clean the sink\; Clean the bathing area\; Mop and clean the f
+ loor
+LOCATION:Home
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271025
+BEGIN:VALARM
+TRIGGER:-PT6H
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bathroom 1
+END:VALARM
+END:VEVENT
+END:VCALENDAR
